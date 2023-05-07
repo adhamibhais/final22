@@ -1,0 +1,1 @@
+var json_PublicBuliding_3 = {"type":"FeatureCollection","name":"PublicBuliding_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"name":"Amedist"},"geometry":{"type":"Point","coordinates":[35.098134188437101,31.531980167131028]}}]}
